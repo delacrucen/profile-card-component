@@ -1,0 +1,105 @@
+/* RESET */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #23b2ba;
+}
+
+.card-container {
+  margin-top: 50px;
+  margin-left: 50px;
+  background-color: white;
+  font-family: "Kumbh Sans", sans-serif;
+  width: 350px;
+  height: 380px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.185);
+}
+
+#banner-image {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+#profile-picture {
+  border: 5px solid darkgreen;
+  margin-top: -50px;
+  margin-left: 120px;
+  border: solid 5px white;
+  border-radius: 100%;
+}
+
+#name,
+#followers-count,
+#likes-count,
+#photos-count {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+#name {
+  display: inline;
+}
+
+#age,
+#location,
+#followers-title,
+#likes-title,
+#photos-title {
+  color: hsl(0, 0%, 59%);
+}
+
+#followers-title,
+#likes-title,
+#photos-title {
+  font-weight: 400px;
+  font-size: 13px;
+}
+
+#age {
+  margin-left: 5px;
+  font-size: 18px;
+  display: inline;
+}
+
+.username-info {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.username-info {
+  text-align: center;
+}
+
+#location {
+  text-align: center;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+
+hr {
+  width: 95%;
+  border: 1px solid #f6f6f6;
+  margin: auto;
+}
+
+.user-convertion-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 25px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+}
