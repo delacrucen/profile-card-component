@@ -1,6 +1,6 @@
 # Profile card component
 
-Another day, another component :D 
+Another day, another component :D  
 The challenge: https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ  
   
 Preview result (image): https://ibb.co/LJPdSkG  
